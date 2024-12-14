@@ -13,7 +13,8 @@ Download the checkpoint of llama-7b-hf
 ## 3. Training
 We provide the hallucination training dataset in "***data/train_data.jsonl***" and the manually labeled validation set in "***data/eval_data.jsonl***".
 
-Link to "***data/train_data.jsonl***" at https://drive.google.com/file/d/1IEph1HkqRGY_IPKfbcdbNaHY2T75HOWD/view?usp=sharing
+Link to "***data/train_data.jsonl***" at https://drive.google.com/file/d/1IEph1HkqRGY_IPKfbcdbNaHY2T75HOWD/view?usp=sharing.
+
 If you want to:
 * Retrain
 * Use another scale of llama
